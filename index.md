@@ -1,7 +1,9 @@
 
 # Carlos Rosales's Portfolio
 
-Hello, I am a Electrical Engineer major at CSUF and I plan on graduating in 2028, or possibly 2029.
+Hello, my name is Carlos Rosales, and this is my home page! I am a Electrical Engineer major at CSUF and I plan on graduating in 2028, or possibly 2029.
+
+My GitHub page is https://github.com/RosalesC-CPSC
 
 ## Favorite CPSC 120L Labs
 
